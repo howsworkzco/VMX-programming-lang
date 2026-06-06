@@ -1,2 +1,4 @@
 # VMX-programming-lang
-VMX is a programming language created and developed by howsworkzco in order to create new stuff. The porgramming language initially was just to be for programs, but now it has new plans: websites, 3D Engines, Game Engines, and many more to come!
+VMX is a programming language created and developed by howsworkzco in order to help and ease programming much more.  
+It is suitable for beginners due to the quick and easy access to many projects, such as: 3d engines, libraries, and the web.  
+It is also suitable for advanced/experienced programmers due to the advanced logic programmers can implement into a script.
